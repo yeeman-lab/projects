@@ -2,6 +2,7 @@ Hi all! This is my GitHub page where you can find a selection of projects I've c
 
 ## Let me give you a glimpse into what you'll discover here:
  - [Web Scraping Project: Interest Rates Comparison](https://github.com/yeeman-lab/projects/blob/main/fixed_bond.ipynb)
+ - [Visualizing Wage Differences across Professions and Gender Pay Trends in the UK (1997-2023)](https://github.com/yeeman-lab/projects/blob/main/median_hourly_pay.ipynb)
 
 Feel free to explore this project and others to get insights into my learning journey and the practical applications of my computer science studies. Your feedback and suggestions are always welcome!
 Thank you!
