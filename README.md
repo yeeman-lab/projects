@@ -2,7 +2,8 @@ Hi all! This is my GitHub page where you can find a selection of projects I've c
 
 ## Let me give you a glimpse into what you'll discover here:
 
-- [Node.js, React & PostgreSQL: Simple Web Application for managing notes efficiently.](https://github.com/yeeman-lab/Sticky_Notes)
+- [Vue.js: Travel Budget Planner](https://github.com/yeeman-lab/travel-budget-planner)
+- [Node.js, React & PostgreSQL: Web Application for managing notes](https://github.com/yeeman-lab/Sticky_Notes)
 - [Django Project: Web Application for Book Clubs and Bookshelf Management](https://github.com/yeeman-lab/book_nest)
 - [Web Scraping Project: Interest Rates Comparison](https://github.com/yeeman-lab/projects/blob/main/fixed_bond.ipynb)
 - [Visualizing Wage Differences across Professions and Gender Pay Trends in the UK (1997-2023)](https://github.com/yeeman-lab/projects/blob/main/median_hourly_pay.ipynb)
