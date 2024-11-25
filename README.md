@@ -2,6 +2,7 @@ Hi all! This is my GitHub page where you can find a selection of projects I've c
 
 ## Let me give you a glimpse into what you'll discover here:
 
+- [Next.js: Discussion Platform](https://github.com/yeeman-lab/Nextjs-discuss)
 - [Vue.js: Travel Budget Planner](https://github.com/yeeman-lab/travel-budget-planner)
 - [Node.js, React & PostgreSQL: Web Application for managing notes](https://github.com/yeeman-lab/Sticky_Notes)
 - [Django Project: Web Application for Book Clubs and Bookshelf Management](https://github.com/yeeman-lab/book_nest)
